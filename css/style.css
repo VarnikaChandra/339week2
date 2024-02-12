@@ -21,10 +21,10 @@ nav {
     margin-right: 0;
   }
 nav ul li a.active { /* not just change color */
-    color: #ff9d00; 
+    color:#c75100;
     font-weight: bold;
     text-decoration: underline;
-    border-bottom: 2px solid #ff9d00;
+    border-bottom: 2px solid #c75100;
 }
 a.skip-link {
    position: absolute;
